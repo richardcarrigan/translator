@@ -1,0 +1,15 @@
+C:\Users\ricarrigan\Documents\translator\bin\Debug\net8.0\translator.exe
+C:\Users\ricarrigan\Documents\translator\bin\Debug\net8.0\translator.deps.json
+C:\Users\ricarrigan\Documents\translator\bin\Debug\net8.0\translator.runtimeconfig.json
+C:\Users\ricarrigan\Documents\translator\bin\Debug\net8.0\translator.dll
+C:\Users\ricarrigan\Documents\translator\bin\Debug\net8.0\translator.pdb
+C:\Users\ricarrigan\Documents\translator\obj\Debug\net8.0\translator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ricarrigan\Documents\translator\obj\Debug\net8.0\translator.AssemblyInfoInputs.cache
+C:\Users\ricarrigan\Documents\translator\obj\Debug\net8.0\translator.AssemblyInfo.cs
+C:\Users\ricarrigan\Documents\translator\obj\Debug\net8.0\translator.csproj.CoreCompileInputs.cache
+C:\Users\ricarrigan\Documents\translator\obj\Debug\net8.0\translator.sourcelink.json
+C:\Users\ricarrigan\Documents\translator\obj\Debug\net8.0\translator.dll
+C:\Users\ricarrigan\Documents\translator\obj\Debug\net8.0\refint\translator.dll
+C:\Users\ricarrigan\Documents\translator\obj\Debug\net8.0\translator.pdb
+C:\Users\ricarrigan\Documents\translator\obj\Debug\net8.0\translator.genruntimeconfig.cache
+C:\Users\ricarrigan\Documents\translator\obj\Debug\net8.0\ref\translator.dll
